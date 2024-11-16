@@ -6,7 +6,7 @@ npm install
 Start the Development Server:
 npm run dev
 
-Kindly find the backend repository link below 
+Kindly find the FrontEnd repository link below 
 https://github.com/vishnu14279/To-do-Application-Front-End
 
 Kindly Find the Demo video link below
