@@ -18,7 +18,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "https://to-do-application-front-end.onrender.com",
     methods: ["GET", "POST"],
     credentials: true
   }
